@@ -1,0 +1,11 @@
+C:\Users\user\Documents\agam\agam\agam\bin\Debug\netcoreapp3.0\agam.exe
+C:\Users\user\Documents\agam\agam\agam\bin\Debug\netcoreapp3.0\agam.deps.json
+C:\Users\user\Documents\agam\agam\agam\bin\Debug\netcoreapp3.0\agam.runtimeconfig.json
+C:\Users\user\Documents\agam\agam\agam\bin\Debug\netcoreapp3.0\agam.runtimeconfig.dev.json
+C:\Users\user\Documents\agam\agam\agam\bin\Debug\netcoreapp3.0\agam.dll
+C:\Users\user\Documents\agam\agam\agam\bin\Debug\netcoreapp3.0\agam.pdb
+C:\Users\user\Documents\agam\agam\agam\obj\Debug\netcoreapp3.0\agam.csprojAssemblyReference.cache
+C:\Users\user\Documents\agam\agam\agam\obj\Debug\netcoreapp3.0\agam.AssemblyInfoInputs.cache
+C:\Users\user\Documents\agam\agam\agam\obj\Debug\netcoreapp3.0\agam.AssemblyInfo.cs
+C:\Users\user\Documents\agam\agam\agam\obj\Debug\netcoreapp3.0\agam.dll
+C:\Users\user\Documents\agam\agam\agam\obj\Debug\netcoreapp3.0\agam.pdb
